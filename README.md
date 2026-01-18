@@ -9,9 +9,9 @@
 
 <h2>Prerequisites</h2>
 
-- <a href="https://github.com/kirkgacias/ad-and-azuresetup"> Preliminary Setup for Active Directory and Network Traffic Analysis between Azure VMs </a>
-- <a href="https://github.com/kirkgacias/ad-deployment-configuration"> Active Directory Deployment and Configuration </a>
-- <a href="https://github.com/kirkgacias/ad-user-generation">Active Directory: User Generation </a>
+- <a href="https://github.com/chinhanjohnlee/ad-and-azure-setup"> Preliminary Setup for Active Directory and Network Traffic Analysis between Azure VMs </a>
+- <a href="https://github.com/chinhanjohnlee/ad-deployment-configuration"> Active Directory Deployment and Configuration </a>
+- <a href="https://github.com/chinhanjohnlee/ad-user-generation">Active Directory: User Generation </a>
 
 <h2>Key Objectives</h2>
 
@@ -46,7 +46,7 @@
 
 <p><strong>First create a new user account named "John Smith" with the username "john_smith" and a temporary password.</strong></p>
 
-<img width="324" alt="john smith" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/1a695e10-9cb3-4013-bd48-0ed2b9f3c31d">
+<img width="324" height="275" alt="Image" src="https://github.com/user-attachments/assets/b3fcea2b-a618-49ac-b734-f6b895863844" />
 
 <p><strong>NOTE: Set the account to require a password change at the next login.</strong></p>
 
@@ -56,7 +56,7 @@
 
 <p><strong> Assign John to the "Developers" security group in Active Directory.</strong></p>
 
-<img width="340" alt="developers" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/a1f6ef6a-5c02-41c5-a331-eddde3b2e0f0">
+<img width="340" height="185" alt="Image" src="https://github.com/user-attachments/assets/941acca2-4062-4fe2-a249-9d963e62065a" />
 
 <p><strong>.</strong></p>
 <p><strong>.</strong></p>
@@ -64,7 +64,7 @@
 
 <p><strong>Then ensure that John's account is located in the appropriate Organizational Unit (OU) for IT staff.</strong></p>
 
-<img width="340" alt="check" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/3344b604-0705-45d7-8e22-90fc583bf55a">
+<img width="603" height="802" alt="Image" src="https://github.com/user-attachments/assets/ffefa189-51ec-4410-8615-8cba499d776c" />
 
 <br>
 <br>
@@ -85,7 +85,7 @@
 
 <p><strong> Locate Sarah's user account and initiate a password reset.</strong></p>
 
-<img width="383" alt="reset password" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/c74f2c28-6fd8-4d3e-b3ed-7e16d14d1364">
+<img width="383" height="211" alt="Image" src="https://github.com/user-attachments/assets/c129856a-b971-47d1-b12e-fe1a45956f96" />
 
 
 <p><strong>.</strong></p>
@@ -94,7 +94,7 @@
 
 <p><strong>Set a temporary password for Sarah that complies with the company's password policy.</strong></p>
 
-<img width="383" alt="enable acc" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/85e43120-0d23-4cb8-a8e2-6e64005a7303">
+<img width="562" height="379" alt="Image" src="https://github.com/user-attachments/assets/4b876f21-8c8d-4e11-9ee2-53ea5fd0bae9" />
 
 <p><strong>NOTE: Make sure to click the highlighted boxes to ensure the user’s account is unlocked and enable them to set their own password. </strong></p>
 
@@ -118,7 +118,7 @@
 
 <p><strong>Locate Emma's user account and review her current group memberships.</strong></p>
 
-<img width="304" alt="Emma " src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/e0f15108-dcdb-477d-8de4-5f3747e5ea07">
+<img width="304" height="264" alt="Image" src="https://github.com/user-attachments/assets/c6d15f56-a6b6-44fe-8394-b1546e100f56" />
 
 <p><strong>.</strong></p>
 <p><strong>.</strong></p>
@@ -126,7 +126,7 @@
 
 <p><strong>Remove Emma from the "Systems Analysts" group and add her to the "IT Managers" group.</strong></p>
 
-<img width="303" alt="IT managers" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/5120932a-c9de-45d9-9419-383bf839bbc4">
+<img width="303" height="259" alt="Image" src="https://github.com/user-attachments/assets/aae8d22b-23ea-49d3-8851-5a58703ec4c6" />
 
 <p><strong>.</strong></p>
 <p><strong>.</strong></p>
@@ -134,7 +134,7 @@
 
 <p><strong>Confirm that Emma now has the necessary access rights to project folders and relevant network resources.</strong></p>
 
-<img width="600" alt="image" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/aadea113-c15b-4135-93d8-8b4ebf48de04">
+<img width="1014" height="380" alt="Image" src="https://github.com/user-attachments/assets/cd88bec0-1403-42cc-97d6-37e4116f9c9c" />
 
 
 - Communicate the group membership update to Emma, along with any additional instructions or changes in access.
@@ -155,7 +155,7 @@
 
 <p><strong>Locate Mark's user account and initiate the account deactivation process.</strong></p>
 
-<img width="421" alt="makr" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/0a51e96b-9dce-4bf6-a22f-92943f6e8a20">
+<img width="421" height="207" alt="Image" src="https://github.com/user-attachments/assets/865c69b2-bc55-45a2-99b6-1e3bb17aa6ca" />
 
 <p><strong>.</strong></p>
 <p><strong>.</strong></p>
@@ -163,7 +163,7 @@
 
 <p><strong>Disable Mark's account to prevent further logins while retaining the account details for reference.</strong></p>
 
-<img width="470" alt="disable" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/da07b6af-1ba3-467a-b0a0-8109afc37bfb">
+<img width="470" height="290" alt="Image" src="https://github.com/user-attachments/assets/8610c931-8171-4181-8844-2ed7b7c61659" />
 
 <p><strong>.</strong></p>
 <p><strong>.</strong></p>
@@ -171,7 +171,7 @@
 
 <p><strong>You may receive a confirmation dialog; click "Yes" to confirm the disabling of the user account.</strong></p>
 
-<img width="223" alt="disable 2" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/5b5bdfe6-996d-4ff3-8201-4cd9549bdd46">
+<img width="223" height="118" alt="Image" src="https://github.com/user-attachments/assets/f5b5a1ab-4345-43bc-b9df-ffad6ede238f" />
 
 <p><strong>.</strong></p>
 <p><strong>.</strong></p>
@@ -179,7 +179,7 @@
 
 <p><strong>Remove Mark from all security groups to revoke his access to network resources.</strong></p>
 
-<img width="295" alt="remove mark" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/1613e604-3e4c-462f-8c30-ea0dd7fed0bf">
+<img width="295" height="337" alt="Image" src="https://github.com/user-attachments/assets/b59eef3c-4097-4273-9fc8-7d920254ba93" />
 
 <br>
 <br>
@@ -205,7 +205,7 @@
 
 <p><strong>Create a new Organizational Unit named "International Sales" within the Sales department's organizational structure.</strong></p>
 
-<img width="323" alt="International Sales" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/19db8909-74bf-4e02-8b5d-353bce7818ee">
+<img width="323" height="299" alt="Image" src="https://github.com/user-attachments/assets/d78b6f0d-1316-42c9-918d-9f92971513d2" />
 
 <p><strong>.</strong></p>
 <p><strong>.</strong></p>
@@ -213,9 +213,9 @@
 
 <p><strong>Move the user accounts of team members, such as Alex Turner and Maria Sanchez, to the newly created OU.</strong></p>
 
-<img width="307" alt="Alex Turner to IS " src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/ff044b9d-17ee-4b8d-8b40-0f55dff95070">
+<img width="307" height="232" alt="Image" src="https://github.com/user-attachments/assets/5ae8e49f-6873-4ec6-ac21-0cc2e3ae26d8" />
 
-<img width="305" alt="Maria to IS" src="https://github.com/kirkgacias/ad-scenario-simulation/assets/158519921/641b24cb-156c-4a32-8edd-bc9041ca3741">
+<img width="305" height="233" alt="Image" src="https://github.com/user-attachments/assets/ac40b630-9e4a-4bf9-9758-4fd57e807db9" />
 
 <p><strong>.</strong></p>
 <p><strong>.</strong></p>
